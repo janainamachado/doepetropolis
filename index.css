@@ -3,8 +3,11 @@
     padding: 2px 16px;
   }
   .center {
-    margin: auto;
-    width: 50%;
+    text-align: center;
+  }
+
+  .margin-text {
+      margin-left: 5px;
   }
   .dropbtn {
     background-color: #4CAF50;
