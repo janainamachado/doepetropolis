@@ -74,7 +74,7 @@
     "Em Petrópolis": [
         {
             "nome": "Ministério Encontro de Vida",
-            "descricao_geral": "Descricao",
+            "descricao_geral": "",
             "pix": {
                 "cnpj": "",
                 "email": "",
@@ -337,6 +337,113 @@
                     "observacao": "Dentro do Hipermercado Extra"
                 }
             ]
+        },
+        {
+            "nome": "Flamengo",
+            "descricao_geral": "Confira os pontos para as doações!",
+            "pix": {
+                "cnpj": "00.346.076/0001-73",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaCnG1iL5CA/",
+            "imagem_url": "https://i.ibb.co/qxMqHfK/Screenshot-2022-02-18-at-16-20-47.png",
+            "itens_pedidos": [
+                "Água Mineral",
+                "Alimentos não-perecíveis",
+                "Roupas de cama",
+                "Roupas infantis e de adulto",
+                "Material de limpeza",
+                "Itens de higiene pessoal",
+                "Máscaras de proteção",
+                "Álcool em gel"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Avenida Borges de Madeiros, 997, Entrada da Lagoa, Clube de Regatas do Flamengo, Rio de Janeiro",
+                    "observacao": "Das 09h às 18h"
+                },
+                {
+                    "endereco": "Rua Prof. Euríco Rabêlo - Portão 6 - Maracanazinho, Rio de Janeiro",
+                    "observacao": "Das 09h às 18h"
+                },
+                {
+                    "endereco": "Rua da Gamboa, 246 - Gamboa - Sede da Ação da Cidadania, Rio de Janeiro",
+                    "observacao": "Das 09h às 18h"
+                }
+            ]
+        },
+        {
+            "nome": "Vasco da Gama",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaCmciTLu6x/",
+            "imagem_url": "https://i.ibb.co/jwvhYm8/Screenshot-2022-02-18-at-16-32-14.png",
+            "itens_pedidos": [],
+            "pontos_doacao": [
+                {
+                    "endereco": "Sede Náutica da Lagoa, Rio de Janeiro",
+                    "observacao": ""
+                },
+                {
+                    "endereco": "Lojas Gigante da Colina",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "nome": "Fluminense",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaDRKlfuBnB/",
+            "imagem_url": "https://i.ibb.co/LrmH1gx/Screenshot-2022-02-18-at-16-35-49.png",
+            "itens_pedidos": [
+                "Alimentos não perecíveis",
+                "Água Mineral",
+                "Roupas",
+                "Cobertores",
+                "Higiene pessoal"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Rua Álvaro Chaves, 41 - Laranjeiras, Rio de Janeiro",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "nome": "Botafogo",
+            "descricao_geral": "O Nilton Santos é ponto de arrecadação para doações de apoio às vitimas das fortes chuvas na cidade de Petrópolis.",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaDSBEbP2iz/",
+            "imagem_url": "https://i.ibb.co/Gc2pnPb/Screenshot-2022-02-18-at-16-39-47.png",
+            "itens_pedidos": [
+                "Alimentos",
+                "Água Mineral",
+                "Higiene"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Rua das Oficinas, s/nº, Portão Norte 2 – Estádio Nilton Santos, Rio de Janeiro",
+                    "observacao": ""
+                }
+            ]
         }
     ],
     "Em Niterói": [
@@ -362,6 +469,56 @@
                 {
                     "endereco": "Rua São Sebastião, 18, sala 602, Ingá, Niterói",
                     "observacao": "Atrás do Plaza, de 9h às 18h"
+                }
+            ]
+        },
+        {
+            "nome": "Vasco da Gama",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaCmciTLu6x/",
+            "imagem_url": "https://i.ibb.co/jwvhYm8/Screenshot-2022-02-18-at-16-32-14.png",
+            "itens_pedidos": [],
+            "pontos_doacao": [
+                {
+                    "endereco": "Ginásio do Estádio de São Januário, Niterói",
+                    "observacao": ""
+                },
+                {
+                    "endereco": "Lojas Gigante da Colina",
+                    "observacao": ""
+                }
+            ]
+        }
+    ],
+    "Duque de Caxias": [
+        {
+            "nome": "Fluminense",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaDRKlfuBnB/",
+            "imagem_url": "https://i.ibb.co/LrmH1gx/Screenshot-2022-02-18-at-16-35-49.png",
+            "itens_pedidos": [
+                "Alimentos não perecíveis",
+                "Água Mineral",
+                "Roupas",
+                "Cobertores",
+                "Higiene pessoal"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "CT Vale das Laranjeiras - Rua Doutor Sabino Árias, 859 - Xerém, Duque de Caxias",
+                    "observacao": ""
                 }
             ]
         }
