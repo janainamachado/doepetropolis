@@ -1,12 +1,32 @@
 $(document).ready(function(){
-    loadDonationsList("#donations_locations");
+    loadDonationsList((list) => {
+      renderDonationsLocationsButtons("#locations-options", list);
+      renderDonationsList("#donations_locations", list);
+    });
 
     $("#city-search").on("keyup", (e) => {
         let cityQuery = e.target.value;
         searchTable(cityQuery)
     })
-
 });
+
+function stringToSlug(str) {
+  str = str.replace(/^\s+|\s+$/g, ''); // trim
+  str = str.toLowerCase();
+
+  // remove accents, swap ñ for n, etc
+  var from = "àáäâèéëêìíïîòóöôùúüûñç·/_,:;";
+  var to   = "aaaaeeeeiiiioooouuuunc------";
+  for (var i=0, l=from.length ; i<l ; i++) {
+      str = str.replace(new RegExp(from.charAt(i), 'g'), to.charAt(i));
+  }
+
+  str = str.replace(/[^a-z0-9 -]/g, '') // remove invalid chars
+      .replace(/\s+/g, '-') // collapse whitespace and replace by -
+      .replace(/-+/g, '-'); // collapse dashes
+
+  return str;
+}
 
 function searchTable(filter) {
   let table, tr; 
@@ -26,10 +46,34 @@ function searchTable(filter) {
   }
 }
 
-function loadDonationsList(containerElem){
+function loadDonationsList(callback){
   fetch("./lugares-doacoes.json")
     .then(response => response.json())
-    .then(data => renderDonationsList(containerElem, data))
+    .then(data => callback(data))
+}
+
+function renderDonationsLocationsButtons(containerElem, list){
+  const $containerElem = $(containerElem);
+  let html = `
+  <div class="container">
+    <div class="row py-3">
+  `;
+
+  Object.entries(list).forEach(entry => {
+    const [sectionTitle, _locations] = entry;
+
+    html += `
+    <div class="col">
+      <a href="#${stringToSlug(sectionTitle)}" type="button" class="btn btn-block btn-lg btn-info">${sectionTitle}</a>
+    </div>`;
+  });
+
+  html += `
+    </div>
+  </div>
+    `;
+
+  $containerElem.append(html)
 }
 
 function renderDonationsList(containerElem, data){
@@ -39,7 +83,7 @@ function renderDonationsList(containerElem, data){
     const [sectionTitle, locations] = entry;
     
     let cardHtml = `
-      <div class="album pt-5 bg-light">
+      <div class="album pt-5" id="${stringToSlug(sectionTitle)}">
           <div class="container">
             <h3>${sectionTitle}</h3>
             <div class="row">

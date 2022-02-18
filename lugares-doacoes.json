@@ -71,7 +71,7 @@
             "pontos_doacao": []
         }
     ],
-    "Em Petrópolis": [
+    "Petrópolis": [
         {
             "nome": "Ministério Encontro de Vida",
             "descricao_geral": "",
@@ -249,7 +249,7 @@
             "pontos_doacao": []
         }
     ],
-    "No Rio de Janeiro": [
+    "Rio de Janeiro": [
         {
             "nome": "Igreja Batista do Méier",
             "descricao_geral": "Somos um ponto de arrecadação! Faça sua doação para as vítimas das chuvas em Petrópolis.",
@@ -446,7 +446,7 @@
             ]
         }
     ],
-    "Em Niterói": [
+    "Niterói": [
         {
             "nome": "PSOL Niterói",
             "descricao_geral": "O PSOL Niterói está recebendo mantimentos para enviar para Petrópolis e outras cidades da região serrana.",
