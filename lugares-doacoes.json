@@ -1,0 +1,369 @@
+{
+    "De qualquer lugar": [
+        {
+            "nome": "SOS Serra",
+            "descricao_geral": "Organização fundada em Abril de 2021 com o objetivo de ajudar famílias petropolitanas em necessidade e apoiar na saúde pública.",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "(24)99303-8885",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/sos_serra/",
+            "imagem_url": "https://i.ibb.co/ftxRPBH/sos-serra.png",
+            "itens_pedidos": [],
+            "pontos_doacao": []
+        },
+        {
+            "nome": "Pɑróquiɑ Sɑnto Antônio",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "28.805.190/0007-29",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaCcOKlOpsk/",
+            "imagem_url": "https://i.ibb.co/zRbqnrM/Screenshot-2022-02-17-at-21-19-46.png",
+            "itens_pedidos": [],
+            "pontos_doacao": []
+        },
+        {
+            "nome": "Centro de Defesa dos Direitos Humanos",
+            "descricao_geral": "O Centro de Defesa dos Direitos Humanos de Petrópolis  foi criado em 1979, com a finalidade de realizar, apoiar, assessorar e orientar iniciativas que contribuam para a concretização dos Direitos Humanos nas sociedades.",
+            "pix": {
+                "cnpj": "27.219.757/0001-27",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/cddh_petropolis/",
+            "imagem_url": "https://i.ibb.co/FJXsqWv/Screenshot-2022-02-17-at-13-27-51.png",
+            "itens_pedidos": [],
+            "pontos_doacao": []
+        },
+        {
+            "nome": "Coletiva Feminista Popular",
+            "descricao_geral": "O dinheiro arrecadado será direcionado à compra de suprimentos para os desabrigados, de acordo com o que conseguirmos mapear.",
+            "pix": {
+                "cnpj": "",
+                "email": "coletivafeministapopularpet@gmail.com",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/coletivafeministapopular/",
+            "imagem_url": "https://i.ibb.co/t2cZdgV/Screenshot-2022-02-17-at-13-54-36.png",
+            "itens_pedidos": [],
+            "pontos_doacao": []
+        },
+        {
+            "nome": "Bola de Neve Church",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "04.239.797/0001-35 <small>(Envie o comprovante do PIX para: (21) 98420-5005)</small>",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaF525HPMsw/",
+            "imagem_url": "https://i.ibb.co/8smNPXW/Screenshot-2022-02-17-at-22-15-12.png",
+            "itens_pedidos": [],
+            "pontos_doacao": []
+        }
+    ],
+    "Em Petrópolis": [
+        {
+            "nome": "Ministério Encontro de Vida",
+            "descricao_geral": "Descricao",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/mevlive",
+            "imagem_url": "https://i.ibb.co/M7JMdCD/Screenshot-2022-02-17-at-13-50-30.png",
+            "itens_pedidos": [
+                "Alimentos não perecíveis",
+                "Água potável",
+                "Itens de higiene pessoal",
+                "Roupas"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Rua Dr Sá Earp, 315, Centro",
+                    "observacao": "ao lado do CTO, 9h às 18h"
+                }
+            ]
+        },
+        {
+            "nome": "Prefeitura de Petrópolis",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaFwFocvnHX/",
+            "imagem_url": "https://i.ibb.co/TYYpHtH/Screenshot-2022-02-17-at-19-33-38.png",
+            "itens_pedidos": [
+                "Higiene pessoal",
+                "Limpeza",
+                "Roupas",
+                "Brinquedos",
+                "Alimentos"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Universidade Católica de Petrópolis (UCP),rua Ministro Lúcio Meira, Bingen",
+                    "observacao": ""
+                },
+                {
+                    "endereco": "Prédio do Grupo 15, Rua Paulo Hervê, 1424, Bingen",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "nome": "Igreja Batista Bingen",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaC-FWulrri/",
+            "imagem_url": "https://i.ibb.co/tXvPBwS/Screenshot-2022-02-17-at-21-06-53.png",
+            "itens_pedidos": [
+                "Agasalhos",
+                "Cobertores",
+                "Cestas Básicas"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Igreja Batista Bingen, Rua Doutor Paulo Hervé, 694, Bingen, Petrópolis",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "nome": "Pɑróquiɑ Sɑnto Antônio",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "28.805.190/0007-29",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaCcOKlOpsk/",
+            "imagem_url": "https://i.ibb.co/zRbqnrM/Screenshot-2022-02-17-at-21-19-46.png",
+            "itens_pedidos": [
+                "Colchonete",
+                "Cobertores",
+                "Pão",
+                "Achocolatado",
+                "Fralda M e G",
+                "Chinelo",
+                "Sapato masculino",
+                "Muitas outras coisas"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Paróquia Santo Antônio, Alto da Serra, Petrópolis",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "nome": "Padaria Fular",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaF6fR-PLk1/",
+            "imagem_url": "https://i.ibb.co/PQY8HLZ/Screenshot-2022-02-17-at-22-24-49.png",
+            "itens_pedidos": [
+                "Alimentos"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Rua Quissamã, 1242, Petrópolis",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "nome": "Vasconcellos Oliveira & Silva Advogados",
+            "descricao_geral": "Buscam doações de moto nas proximidades",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/vos.advogados/",
+            "imagem_url": "https://i.ibb.co/S0D6LcP/Screenshot-2022-02-17-at-21-08-49.png",
+            "itens_pedidos": [
+                "Roupas",
+                "Cobertores",
+                "Alimentos"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Rua Alfredo Schilick 151, Alto da Serra, Petrópolis",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "nome": "Pontos de acolhimento em Petrópolis",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaCh72iFkMO/",
+            "imagem_url": "https://i.ibb.co/0nms8Cw/Screenshot-2022-02-17-at-19-30-53.png",
+            "itens_pedidos": [],
+            "pontos_doacao": []
+        },
+        {
+            "nome": "Coordenadoria de Bem-Estar Animal (Cobea)",
+            "descricao_geral": "A Coordenadoria de Bem-Estar Animal (Cobea) está cadastrando voluntários para acolhimento de animais que forem resgatados pelas equipes da Prefeitura.  Os interessados em fazer parte dessa corrente voluntária precisam entrar em contato com o número (24)99204-0647.  Para acolhimento será necessário informar nome completo, telefone de contato atualizado, CPF do tutor temporário e comprovante de residência.  O local para abrigo desses animais precisa ser seguro. Já para os médicos-veterinários que queiram se voluntariar, será necessário informar os mesmos dados acima citados e o registro no CRMV.",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaDn4Hml_jD/",
+            "imagem_url": "https://i.ibb.co/MyH2PB3/Screenshot-2022-02-17-at-19-40-35.png",
+            "itens_pedidos": [],
+            "pontos_doacao": []
+        }
+    ],
+    "No Rio de Janeiro": [
+        {
+            "nome": "Igreja Batista do Méier",
+            "descricao_geral": "Somos um ponto de arrecadação! Faça sua doação para as vítimas das chuvas em Petrópolis.",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/ibmeier/",
+            "imagem_url": "https://i.ibb.co/JvtWqCm/Screenshot-2022-02-17-at-13-40-24.png",
+            "itens_pedidos": [
+                "Água mineral",
+                "Alimentos não perecíveis"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Rua Hermengarda, 31 - Méier, Rio de Janeiro/RJ, CEP 20710-010",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "nome": "Prefeitura do Rio de Janeiro",
+            "descricao_geral": "Abrimos 10 pontos de coleta de donativos no Rio. Os itens de maior necessidade são água, material de limpeza e higiene pessoal.<br /><br />As doações serão recolhidas pela <a href=\"https://www.instagram.com/smas.rio/\">Assistência Social Rio</a>, das 8h às 17h.",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaDP373O6hd/",
+            "imagem_url": "https://i.ibb.co/1sNk0XN/Screenshot-2022-02-17-at-13-45-57.png",
+            "itens_pedidos": [],
+            "pontos_doacao": [
+                {
+                    "endereco": "<a href=\"https://www.instagram.com/p/CaDP373O6hd/\">Clique aqui</a> para ver os pontos",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "nome": "Caarj",
+            "descricao_geral": "A Caarj, a OAB e o DAS se solidarizam com as vítimas e disponibilizam suas instalações para a arrecadação de donativos.",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/caarj_oab/",
+            "imagem_url": "https://i.ibb.co/xz3WwjK/Screenshot-2022-02-17-at-14-26-11.png",
+            "itens_pedidos": [],
+            "pontos_doacao": [
+                {
+                    "endereco": "Avenida Marechal Câmara, 210, Centro, Rio de Janeiro",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "nome": "Bola de Neve Church",
+            "descricao_geral": "",
+            "pix": {
+                "cnpj": "04.239.797/0001-35 <small>(Envie o comprovante do PIX para: (21) 98420-5005)</small>",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaF525HPMsw/",
+            "imagem_url": "https://i.ibb.co/8smNPXW/Screenshot-2022-02-17-at-22-15-12.png",
+            "itens_pedidos": [
+                "Alimentos não perecíveis/cestas básicas",
+                "Roupas",
+                "Cobertores e colchões",
+                "Água potável",
+                "Itens de higiene pessoal (creme dental, escova de dente, sabonete, xampu, absorvente interno, fraldas)",
+                "Móveis e utensílios domésticos",
+                "Álcool gel e máscaras",
+                "Material de Limpeza"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Av das Américas, 1510 - Barra da Tijuca",
+                    "observacao": "Dentro do Hipermercado Extra"
+                }
+            ]
+        }
+    ],
+    "Em Niterói": [
+        {
+            "nome": "PSOL Niterói",
+            "descricao_geral": "O PSOL Niterói está recebendo mantimentos para enviar para Petrópolis e outras cidades da região serrana.",
+            "pix": {
+                "cnpj": "",
+                "email": "",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://www.instagram.com/p/CaC1-uvpd7E/",
+            "imagem_url": "https://i.ibb.co/gvFpvZM/Screenshot-2022-02-17-at-15-23-03.png",
+            "itens_pedidos": [
+                "Água",
+                "Roupas",
+                "Alimentos não perecíveis",
+                "Produtos de higiene e de limpeza",
+                "Cobertores"
+            ],
+            "pontos_doacao": [
+                {
+                    "endereco": "Rua São Sebastião, 18, sala 602, Ingá, Niterói",
+                    "observacao": "Atrás do Plaza, de 9h às 18h"
+                }
+            ]
+        }
+    ]
+}
