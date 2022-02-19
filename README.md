@@ -70,3 +70,7 @@ Algumas seções como "Em Petrópolis" ou "Em Niterói" já existem, basta adici
 **Mudança de código**
 
 Alterações de funcionalidade ou layout são bem vindas. Fique a vontade para criar um novo Pull Request descrevendo suas modificações e um screenshot caso a alteração seja visual.
+
+### Dev
+
+Para rodar o projeto localmente, instale `npm install http-server -g` e depois rode na raiz do projeto `http-server`. O site estará disponível em http://127.0.0.1:8080/.
