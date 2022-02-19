@@ -1,10 +1,10 @@
 <html>
   <head> 
-    <link rel="stylesheet" href="index.css" type="text/css" />
     <meta name="viewport" content="width=1100">
     <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <script type="text/javascript" src="script.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css" type="text/css" />
     <title>Doe Petrópolis - Ajude as vítimas de 15 de Fevereiro de 2022</title>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -19,27 +19,25 @@
   </head>
 
   <body>
-    <div>
-      <h1 class="center">
-        Como ajudar Petrópolis<br />
-      </h1>
 
-      <h4 class="center">
-        Ajude as vítimas da chuva de 15 de Fevereiro de 2022
-      </h4>
+      <main role="main">
+        <section class="jumbotron text-center">
+          <div class="container">
+            <h1 class="jumbotron-heading">Como ajudar Petrópolis</h1>
+            <p class="lead text-muted">Ajude as vítimas da chuva de 15 de Fevereiro de 2022<p>
+            <p class="lead text-muted">De onde deseja ajudar?<p>
+              <section id="locations-options"></section>
+            </p>
+          </div>
+        </section>
 
-      <main role="main" class="pt-5">
-        <h5 class="center">
-          De onde deseja ajudar?
-        </h5>
-
-        <section id="locations-options">
-
+        <section class="center alert alert-warning">
+          <a href="https://docs.google.com/spreadsheets/d/1_Qhq4i5MzPpheKfTEBi_559Q5l07ntAN1Ko3KTVbDUE/edit#gid=0" target="_blank">Clique aqui para visualizar a lista atualizada de pontos de apoio em Petrópolis</a>
         </section>
 
         <section id="donations_locations"></section>
 
-        <div class="album py-5 bg-light">
+        <div class="py-5 bg-light">
           <div class="container">
             <div class="row">
               <input type="text" id="city-search" placeholder="Digite a cidade">
@@ -183,15 +181,14 @@
         </div>
         
       </main>
-    </div> 
-    </div>
-    <footer class="text-muted">
-      <div class="container">
-        <p class="float-right">
-          <a href="#">Back to top</a>
-        </p>
-        <p>Para contribuir com o código, clique <a href="https://github.com/janainamachado/doepetropolis">aqui</a></p>
-      </div>
-    </footer>
+
+      <footer class="text-muted">
+        <div class="container">
+          <p class="float-right">
+            <a href="#">Back to top</a>
+          </p>
+          <p>Para contribuir com o código, clique <a href="https://github.com/janainamachado/doepetropolis">aqui</a></p>
+        </div>
+      </footer>
   </body>
 </html>

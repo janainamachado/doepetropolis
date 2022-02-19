@@ -54,24 +54,13 @@ function loadDonationsList(callback){
 
 function renderDonationsLocationsButtons(containerElem, list){
   const $containerElem = $(containerElem);
-  let html = `
-  <div class="container">
-    <div class="row py-3">
-  `;
+  let html = ``;
 
   Object.entries(list).forEach(entry => {
     const [sectionTitle, _locations] = entry;
 
-    html += `
-    <div class="col">
-      <a href="#${stringToSlug(sectionTitle)}" type="button" class="btn btn-block btn-lg btn-info">${sectionTitle}</a>
-    </div>`;
+    html += `<a href="#${stringToSlug(sectionTitle)}" type="button" class="btn btn-primary my-2 mx-1">${sectionTitle}</a>`;
   });
-
-  html += `
-    </div>
-  </div>
-    `;
 
   $containerElem.append(html)
 }
@@ -83,10 +72,9 @@ function renderDonationsList(containerElem, data){
     const [sectionTitle, locations] = entry;
     
     let cardHtml = `
-      <div class="album pt-5" id="${stringToSlug(sectionTitle)}">
-          <div class="container">
-            <h3>${sectionTitle}</h3>
-            <div class="row">
+    <div class="pt-5 container" id="${stringToSlug(sectionTitle)}">
+      <h3>${sectionTitle}</h3>
+      <div class="row">
     `
 
     locations.forEach((location) => {
@@ -157,10 +145,8 @@ function renderDonationsList(containerElem, data){
 
       cardHtml += `
             </div>
-            <div class="d-flex justify-content-between align-items-center">
-              <div class="btn-group">
-                <a class="btn btn-sm btn-outline-secondary" target="_blank" href="${location.site_url}" role="button">Ir para o site</a>
-              </div>
+            <div class="d-flex center">
+              <a class="btn btn-sm btn-primary" target="_blank" href="${location.site_url}" role="button">Ir para o site</a>
             </div>
           </div>
         </div>
@@ -169,9 +155,8 @@ function renderDonationsList(containerElem, data){
     })
 
     cardHtml += `
-          </div>
-        </div>
       </div>
+    </div>
     `
     $containerElem.append(cardHtml)
   });
