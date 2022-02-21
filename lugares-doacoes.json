@@ -69,6 +69,20 @@
             "imagem_url": "https://i.ibb.co/8smNPXW/Screenshot-2022-02-17-at-22-15-12.png",
             "itens_pedidos": [],
             "pontos_doacao": []
+        },
+        {
+            "nome": "JCI Macaé",
+            "descricao_geral": "<p>A JCI Macaé, em solidariedade com as famílias desabrigadas pela forte chuva que acometeu a cidade de Petrópolis (RJ), está promovendo um projeto de produção e entrega de kits de higiene pessoal e entretenimento infantil.</p> <p>Os kits serão montados pelos voluntários da JCI Macaé e entregues às comunidades da cidade de Petrópolis.</p> <p>Para colaborar, basta escolher neste fomulário (<a target='_blank' href='https://forms.gle/NbjHbqmjhw2X1z9w6'>https://forms.gle/NbjHbqmjhw2X1z9w6</a>) um ou mais kits, personalizar uma mensagem, efetuar o pagamento e enviar o comprovante para o e-mail jcimacaerj@gmail.com</p> <p>É importante ressaltar que o projeto NÃO visa lucro e que TODO dinheiro arrecadado será destinado para PRODUÇÃO e ENTREGA dos kits.</p>",
+            "pix": {
+                "cnpj": "",
+                "email": "biamourad@gmail.com",
+                "cel": "",
+                "outro": ""
+            },
+            "site_url": "https://docs.google.com/forms/d/e/1FAIpQLSc6-hkVzrw9nQv5KvefVSOM8gokwpDjmWflxkvS5RG6C_kdrg/viewform",
+            "imagem_url": "https://i.ibb.co/8dNLDHZ/Screenshot-2022-02-21-at-00-04-22.png",
+            "itens_pedidos": [],
+            "pontos_doacao": []
         }
     ],
     "Petrópolis": [
